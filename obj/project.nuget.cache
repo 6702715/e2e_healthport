@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "vK8qPZrIbsLvaEXmE1Jy6lesTB+0N4d6m/N07VDtvnWxwxTHpVo1yLk5/nIH3brioIpkWEBm1zpC7DqqkU4j+A==",
+  "success": true,
+  "projectFilePath": "/home/user/Projects/nopCommerceLogIn/nopCommerceLogIn.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/allure.commons/3.5.0.73/allure.commons.3.5.0.73.nupkg.sha512",
+    "/home/user/.nuget/packages/aspectinjector/2.6.0/aspectinjector.2.6.0.nupkg.sha512",
+    "/home/user/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.net.test.sdk/16.11.0/microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.testplatform.objectmodel/16.11.0/microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.testplatform.testhost/16.11.0/microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
+    "/home/user/.nuget/packages/mimetypesmap/1.0.8/mimetypesmap.1.0.8.nupkg.sha512",
+    "/home/user/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/user/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/user/.nuget/packages/nuget.frameworks/5.0.0/nuget.frameworks.5.0.0.nupkg.sha512",
+    "/home/user/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512",
+    "/home/user/.nuget/packages/nunit.allure/1.2.1.1/nunit.allure.1.2.1.1.nupkg.sha512",
+    "/home/user/.nuget/packages/nunit3testadapter/4.0.0/nunit3testadapter.4.0.0.nupkg.sha512",
+    "/home/user/.nuget/packages/selenium.webdriver/4.6.0/selenium.webdriver.4.6.0.nupkg.sha512",
+    "/home/user/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
