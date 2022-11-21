@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vK8qPZrIbsLvaEXmE1Jy6lesTB+0N4d6m/N07VDtvnWxwxTHpVo1yLk5/nIH3brioIpkWEBm1zpC7DqqkU4j+A==",
+  "dgSpecHash": "uL07wvIGs42vPtosNb5MOmI5+UwhfvvOb50fYkmxXK08UHX1I/qPfFSTi1Pg7h5piUjVKC9CAVtzdNlPqk9nQA==",
   "success": true,
   "projectFilePath": "/home/user/Projects/nopCommerceLogIn/nopCommerceLogIn.csproj",
   "expectedPackageFiles": [
     "/home/user/.nuget/packages/allure.commons/3.5.0.73/allure.commons.3.5.0.73.nupkg.sha512",
     "/home/user/.nuget/packages/aspectinjector/2.6.0/aspectinjector.2.6.0.nupkg.sha512",
+    "/home/user/.nuget/packages/codejam/4.1.0/codejam.4.1.0.nupkg.sha512",
     "/home/user/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
     "/home/user/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",
     "/home/user/.nuget/packages/microsoft.net.test.sdk/16.11.0/microsoft.net.test.sdk.16.11.0.nupkg.sha512",

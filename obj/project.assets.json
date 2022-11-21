@@ -34,6 +34,15 @@
           "buildTransitive/netstandard2.0/AspectInjector.targets": {}
         }
       },
+      "CodeJam/4.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CodeJam.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CodeJam.dll": {}
+        }
+      },
       "coverlet.collector/3.1.0": {
         "type": "package",
         "build": {
@@ -483,6 +492,29 @@
         "package.png",
         "tools/install.ps1",
         "tools/uninstall.ps1"
+      ]
+    },
+    "CodeJam/4.1.0": {
+      "sha512": "kbOPSCFn4fx+x+mOR7lOoGt2b9QVH1fSsgKewR8CHmvVepof0gyllzIDCz5Jh+uH3kGocACvQ+kmrOzu8ETnvQ==",
+      "type": "package",
+      "path": "codejam/4.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Readme.txt",
+        "codejam.4.1.0.nupkg.sha512",
+        "codejam.nuspec",
+        "icon.png",
+        "lib/net35/CodeJam.dll",
+        "lib/net40/CodeJam.dll",
+        "lib/net45/CodeJam.dll",
+        "lib/net461/CodeJam.dll",
+        "lib/net472/CodeJam.dll",
+        "lib/net5.0/CodeJam.dll",
+        "lib/net6.0/CodeJam.dll",
+        "lib/netcoreapp3.1/CodeJam.dll",
+        "lib/netstandard2.0/CodeJam.dll",
+        "lib/netstandard2.1/CodeJam.dll"
       ]
     },
     "coverlet.collector/3.1.0": {
@@ -1416,6 +1448,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CodeJam >= 4.1.0",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "NUnit >= 3.13.2",
       "NUnit.Allure >= 1.2.1.1",
@@ -1461,6 +1494,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "CodeJam": {
+            "target": "Package",
+            "version": "[4.1.0, )"
+          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[16.11.0, )"

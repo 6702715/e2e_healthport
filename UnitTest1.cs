@@ -4,6 +4,7 @@ using OpenQA.Selenium.Edge;
 using System.Threading;
 using NUnit.Allure.Core;
 using NUnit.Allure.Attributes;
+using CodeJam;
 
 namespace nopCommerceLogIn;
 
@@ -38,8 +39,9 @@ public class Tests
         this.driver.FindElement(By.XPath("//button[normalize-space()='Log in']")).Click();
         IWebElement logoutLink = this.driver.FindElement(By.XPath("//a[@class='ico-logout']"));
         System.Console.WriteLine(logoutLink.Text);
-        Assert.That(logoutLink.Text == "LOG OUT", "You are not logged!");
-        
+        //Assert.That(logoutLink.Text == "LOG OUT", "You are not logged!");
+        Code.BugIf(logoutLink.Text == "LOG OUT","You are not logged!");
+
         Thread.Sleep(3000);
     }
 

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "nopCommerceLogIn/1.0.0": {
         "dependencies": {
+          "CodeJam": "4.1.0",
           "Microsoft.NET.Test.Sdk": "16.11.0",
           "NUnit": "3.13.2",
           "NUnit.Allure": "1.2.1.1",
@@ -36,6 +37,14 @@
           "lib/netstandard2.0/AspectInjector.Broker.dll": {
             "assemblyVersion": "2.6.0.0",
             "fileVersion": "2.6.0.0"
+          }
+        }
+      },
+      "CodeJam/4.1.0": {
+        "runtime": {
+          "lib/net6.0/CodeJam.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
           }
         }
       },
@@ -389,6 +398,13 @@
       "sha512": "sha512-VTd4JwPJBdO+g0GFY9xPtsB63/iCs9WCCZkcw2KJ+4gCP3N1LQ99bsfuQhFfrdZOYxJ8I5HBPyojqGVJyKzuOA==",
       "path": "aspectinjector/2.6.0",
       "hashPath": "aspectinjector.2.6.0.nupkg.sha512"
+    },
+    "CodeJam/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kbOPSCFn4fx+x+mOR7lOoGt2b9QVH1fSsgKewR8CHmvVepof0gyllzIDCz5Jh+uH3kGocACvQ+kmrOzu8ETnvQ==",
+      "path": "codejam/4.1.0",
+      "hashPath": "codejam.4.1.0.nupkg.sha512"
     },
     "coverlet.collector/3.1.0": {
       "type": "package",

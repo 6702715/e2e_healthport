@@ -104,3 +104,4 @@
 /home/user/Projects/nopCommerceLogIn/bin/Debug/net6.0/MimeTypesMap.dll
 /home/user/Projects/nopCommerceLogIn/bin/Debug/net6.0/NUnit.Allure.dll
 /home/user/Projects/nopCommerceLogIn/bin/Debug/net6.0/WebDriver.dll
+/home/user/Projects/nopCommerceLogIn/bin/Debug/net6.0/CodeJam.dll
