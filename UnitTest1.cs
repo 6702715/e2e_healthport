@@ -26,7 +26,7 @@ public class Tests
     public void Login()
     {
         this.driver.FindElement(By.XPath("//a[@class='ico-login']")).Click();
-        Thread.Sleep(500);
+        Thread.Sleep(3000);
 
         IWebElement loginField = this.driver.FindElement(By.XPath("//input[@id='Email']")); 
         loginField.Clear();
