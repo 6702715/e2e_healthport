@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/home/user/Projects/e2e_healthport/nopCommerceLogIn.csproj": {}
+    "/home/user/Projects/e2e_healthport/e2e_healthport.csproj": {}
   },
   "projects": {
-    "/home/user/Projects/e2e_healthport/nopCommerceLogIn.csproj": {
+    "/home/user/Projects/e2e_healthport/e2e_healthport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user/Projects/e2e_healthport/nopCommerceLogIn.csproj",
-        "projectName": "nopCommerceLogIn",
-        "projectPath": "/home/user/Projects/e2e_healthport/nopCommerceLogIn.csproj",
+        "projectUniqueName": "/home/user/Projects/e2e_healthport/e2e_healthport.csproj",
+        "projectName": "e2e_healthport",
+        "projectPath": "/home/user/Projects/e2e_healthport/e2e_healthport.csproj",
         "packagesPath": "/home/user/.nuget/packages/",
         "outputPath": "/home/user/Projects/e2e_healthport/obj/",
         "projectStyle": "PackageReference",

@@ -1463,11 +1463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/Projects/nopCommerceLogIn/nopCommerceLogIn.csproj",
-      "projectName": "nopCommerceLogIn",
-      "projectPath": "/home/user/Projects/nopCommerceLogIn/nopCommerceLogIn.csproj",
+      "projectUniqueName": "/home/user/Projects/e2e_healthport/e2e_healthport.csproj",
+      "projectName": "e2e_healthport",
+      "projectPath": "/home/user/Projects/e2e_healthport/e2e_healthport.csproj",
       "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/Projects/nopCommerceLogIn/obj/",
+      "outputPath": "/home/user/Projects/e2e_healthport/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/user/.nuget/NuGet/NuGet.Config"
